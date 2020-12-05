@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="guide">Welcome to My Space!</string>
+    <string name="my_name">Pushinl</string>
+    <string name="introduction">不如吃茶去</string>
+    <string name="know_more">read more</string>
+    <string name="detailed">遇到困难睡大觉</string>
+</resources>
