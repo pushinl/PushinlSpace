@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".InitActivity">
 
-    <TextView
+    <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/hello_world_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent"
         />
 
-    <Button
+    <com.google.android.material.button.MaterialButton
         android:id="@+id/hello_world_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
